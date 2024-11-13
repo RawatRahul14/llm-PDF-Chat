@@ -12,10 +12,10 @@ This application is a conversational assistant built with Streamlit, designed to
 ## Setup and Installation
 1. Clone the repository:
 
-    ```bash 
-    git clone 
-    cd 
-    ```
+```bash 
+git clone https://github.com/RawatRahul14/llm-PDF-Chat.git
+cd llm-PDF-Chat
+```
 
 2. Create a virtual environment:
 
