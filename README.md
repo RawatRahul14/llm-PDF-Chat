@@ -51,3 +51,5 @@ streamlit run app.py
 
 * **app.py**: Main file to run the Streamlit application.
 * **htmlTemplates.py**: Contains HTML and CSS for styling the user interface.
+
+jdfhbviufedbv
